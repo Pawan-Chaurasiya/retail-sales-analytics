@@ -50,6 +50,14 @@ Interactive dashboard containing:
 
 ## 📁 Project Structure
 
+## 🔍 Key Business Insights
+
+- Technology is the top-performing category by Sales.
+- Technology is also the most profitable category.
+- Central is the leading region by Sales.
+- Apple Smart Phone Full Size is the top-performing product by Sales.
+- Higher discounts are associated with lower profits.
+
 ```text
 retail-sales-analytics/
 │
