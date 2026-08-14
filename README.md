@@ -1,7 +1,3 @@
-# retail-sales-analytics
-End-to-end Retail Sales Analytics project using Excel, Python, MySQL, and Power BI to analyze sales, profit, customers, products, discounts, and regional performance.
-
-
 # Retail Sales Analytics
 
 ## 📌 Project Overview
@@ -47,6 +43,10 @@ Interactive dashboard containing:
 - Top 10 Products
 - Discount vs Profit
 - Interactive Slicers
+
+### 📊 Dashboard Preview
+
+![Retail Analytics Dashboard](./dashboard.png)
 
 ## 📁 Project Structure
 
